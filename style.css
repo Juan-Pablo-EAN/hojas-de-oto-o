@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(255, 209, 110);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    background-image: url(https://estaticos.muyinteresante.es/uploads/images/gallery/5d88cb495cafe841b73c9879/otono12.jpg);
+    background-repeat: repeat-x;
+}
+
+.fondo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.contenedor img {
+    width: 100%;
+    border-radius: 100px;
+    /* transform: rotate3d(1,0,0,55deg); */
+}
